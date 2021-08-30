@@ -5,4 +5,4 @@ Brings out the actual context or topic of any given sentence(s) and documents us
 ## Project Overview
 
 ## References
-- Dataset has been taken from [Kaggle](https://www.kaggle.com/ashisparida/reviews-of-5-car-brands)
+- Dataset has been taken from sklearn's 20Newsgroup
